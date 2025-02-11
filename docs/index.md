@@ -20,3 +20,4 @@ Lando offers a configurable [recipe](https://docs.lando.dev/landofile/recipes.ht
 * `wp cli`
 * `xdebug`
 
+
